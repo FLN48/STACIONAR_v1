@@ -1,0 +1,6 @@
+C:\Users\Pingvin\source\repos\STACIONAR_v1\Stacionar_v1\bin\Debug\SiMedStacionarOperation.dll
+C:\Users\Pingvin\source\repos\STACIONAR_v1\Stacionar_v1\bin\Debug\SiMedStacionarOperation.pdb
+C:\Users\Pingvin\source\repos\STACIONAR_v1\Stacionar_v1\obj\Debug\SiMed.Stacionar.Operation.csprojAssemblyReference.cache
+C:\Users\Pingvin\source\repos\STACIONAR_v1\Stacionar_v1\obj\Debug\SiMed.Stacionar.Operation.csproj.CoreCompileInputs.cache
+C:\Users\Pingvin\source\repos\STACIONAR_v1\Stacionar_v1\obj\Debug\SiMedStacionarOperation.dll
+C:\Users\Pingvin\source\repos\STACIONAR_v1\Stacionar_v1\obj\Debug\SiMedStacionarOperation.pdb
